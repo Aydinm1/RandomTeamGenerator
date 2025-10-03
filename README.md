@@ -1,8 +1,7 @@
 # 🎲 Random Team Generator
 
 A small web app that takes a list of player names and randomly splits them into **Red** and **Blue** teams.  
-Built with **HTML, CSS, and JavaScript** — no frameworks required.
-
+Built with **HTML, CSS, and JavaScript** 
 ---
 
 ## 🚀 Features
@@ -32,7 +31,7 @@ Built with **HTML, CSS, and JavaScript** — no frameworks required.
 
 ---
 view demo via GitHub Pages:  
-👉 [Random Team Generator Live](https://your-username.github.io/RandomTeamGenerator/)
+👉 [Random Team Generator Live](https://Aydinm1.github.io/RandomTeamGenerator/)
 
 ---
 
